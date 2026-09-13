@@ -357,7 +357,7 @@ Any future security testing or attack simulation associated with this laboratory
 I have documented the complete process of building this SOC home lab on Hashnode.
 
 **Hashnode Article:**  
-[Add your Hashnode article link here]
+[Hashnode article link](https://understanding-soc-as-a-learner.hashnode.dev/building-my-first-soc-home-lab-with-windows-kali-linux-using-oracle-virtualbox?utm_source=hashnode&utm_medium=feed)
 
 ---
 
