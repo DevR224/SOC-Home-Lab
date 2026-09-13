@@ -142,7 +142,7 @@ The network configuration was performed through the VirtualBox network settings.
 
 ### Network Configuration
 
-![VirtualBox Network Settings](screenshots/network-settings.png)
+>Both windows and linux are set to be on "Internal Network"
 
 **Figure 5 — Network configuration used for the virtual machines.**
 
